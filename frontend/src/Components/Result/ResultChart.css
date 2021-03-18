@@ -1,0 +1,28 @@
+h4 {
+    display: inline-block;
+}
+
+h5.chartTitle {
+    color: #757474;
+    position: absolute;
+    left: 4.5rem;
+    top: 1rem;
+}
+
+h5.chartXLabel {
+    color: #757474;
+    position: absolute;
+    right: -1rem;
+    bottom: -0rem;
+}
+
+.rv-xy-plot, .chart-grid {
+    display: inline-block;
+    padding: 2rem;
+    margin-right: 50px;
+    position: relative;
+}
+
+.rv-xy-plot__axis__title.chart-title text {
+    font-size: 1.2rem;
+}

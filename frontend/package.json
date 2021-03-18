@@ -1,0 +1,48 @@
+{
+  "name": "script-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.4.3",
+    "@material-ui/icons": "^4.4.3",
+    "@south-paw/react-vector-maps": "^2.0.2",
+    "axios": "^0.21.1",
+    "eslint": "^6.6.0",
+    "eslint-plugin-react": "^7.17.0",
+    "js-file-download": "^0.4.12",
+    "lodash.orderby": "^4.6.0",
+    "material-ui-dropzone": "^2.4.5",
+    "material-ui-upload": "^1.2.1",
+    "package.json": "^2.0.1",
+    "polished": "^3.4.1",
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1",
+    "react-dropzone-uploader": "^2.10.2",
+    "react-router": "^5.1.0",
+    "react-router-dom": "^5.1.0",
+    "react-scripts": "^3.0.1",
+    "react-swipeable-views": "^0.13.3",
+    "react-vis": "^1.11.7",
+    "recompose": "^0.30.0",
+    "styled-components": "^4.4.0",
+    "svg-pan-zoom": "^3.6.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "json-server": "^0.15.0"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
