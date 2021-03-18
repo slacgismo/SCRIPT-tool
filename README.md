@@ -1,4 +1,6 @@
 # SCRIPT - Smart ChaRging Infrastructure Planning Tool
+[![DOI](https://zenodo.org/badge/349156299.svg)](https://zenodo.org/badge/latestdoi/349156299)
+
 This repository comprises two parts: 
 1. Information about the journal paper "Large Scale Scenarios of Electric Vehicle Charging with a Data-Driven Model of Control", and
 2. Code to run the tool itself.
